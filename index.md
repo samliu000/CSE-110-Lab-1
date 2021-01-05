@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Samuel Liu's User Page
 
 You can use the [editor on GitHub](https://github.com/samliu000/CSE-110-Lab-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
