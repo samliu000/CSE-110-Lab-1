@@ -1,8 +1,8 @@
 ## Welcome to Samuel Liu's User Page
 
-You can use the [editor on GitHub](https://github.com/samliu000/CSE-110-Lab-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my page! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a second-year student studying Computer Science at UCSD. I am currently working as a CSE Tutor for Basic Data Structures
 
 ### Markdown
 
