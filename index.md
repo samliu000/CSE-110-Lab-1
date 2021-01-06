@@ -16,7 +16,7 @@ and Object Oriented Design.
 We program in C++ so the code we write would look like
 `
 ```
-![Data Structures](https://github.com/samliu000/CSE-110-Lab-1/blob/main/DSImage.png)
+![Data Structures](./DSImage.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
