@@ -5,7 +5,9 @@ As Abraham Lincoln once said
 
 I am a second-year student studying **Computer Science** at *UC San Diego*. This page will be all about me :smiley:
 
-[Checkout my Resume](https://drive.google.com/file/d/1LiFEOE6UpPLI0XWSsHU4Pg6fPoiXXSgM/view?usp=sharing)
+**Page Sections**
+- [Current Involvemnts](https://github.com/samliu000/CSE-110-Lab-1/blob/gh-pages/index.md#current-involvments)
+- [Contact Me](https://github.com/samliu000/CSE-110-Lab-1/blob/gh-pages/index.md#contact-me)
 
 ## Current Involvments
 
@@ -19,15 +21,7 @@ We program in Java/C++ so the code we write would look something like
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samliu000/CSE-110-Lab-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Contact Me
+## Contact Me
 Email: samuel.liu1004@gmail.com
 Linkedin: [https://www.linkedin.com/in/samuel-liu-1004/](https://www.linkedin.com/in/samuel-liu-1004/)
+[Checkout my Resume](https://drive.google.com/file/d/1LiFEOE6UpPLI0XWSsHU4Pg6fPoiXXSgM/view?usp=sharing)
