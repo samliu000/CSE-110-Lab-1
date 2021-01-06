@@ -13,8 +13,8 @@ Syntax highlighted code block
 ### CSE Tutor
 I am a CSE Tutor for **CSE 12**, Basic Data Structures 
 and Object Oriented Design. 
-We program in C++ so the code we write would look like
-`
+We program in Java/C++ so the code we write would look something like
+`BinTree ourTree = new BinTree();`
 ```
 ![Data Structures](./DSImage.png)
 
