@@ -1,33 +1,30 @@
-## Welcome to Samuel Liu's User Page
+# Welcome to Samuel Liu's User Page
 
-You can use the [editor on GitHub](https://github.com/samliu000/CSE-110-Lab-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As Abraham Lincoln once said
+> Hello!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a second-year student studying **Computer Science** at *UC San Diego*. This page will be all about me :smiley:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Current Involvments
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### CSE Tutor
+I am a CSE Tutor for **CSE 12**, Basic Data Structures 
+and Object Oriented Design. 
+We program in C++ so the code we write would look like
+`
+```
+![Data Structures](https://github.com/samliu000/CSE-110-Lab-1/blob/main/DSImage.png)
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 - Bulleted
 - List
 
 1. Numbered
 2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samliu000/CSE-110-Lab-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
