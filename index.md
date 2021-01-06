@@ -5,17 +5,16 @@ As Abraham Lincoln once said
 
 I am a second-year student studying **Computer Science** at *UC San Diego*. This page will be all about me :smiley:
 
-## Current Involvments
+[Checkout my Resume](https://drive.google.com/file/d/1LiFEOE6UpPLI0XWSsHU4Pg6fPoiXXSgM/view?usp=sharing)
 
-```markdown
-Syntax highlighted code block
+## Current Involvments
 
 ### CSE Tutor
 I am a CSE Tutor for **CSE 12**, Basic Data Structures 
 and Object Oriented Design. 
 We program in Java/C++ so the code we write would look something like
 `BinTree ourTree = new BinTree();`
-```
+
 ![Data Structures](./DSImage.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
