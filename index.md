@@ -3,7 +3,7 @@
 As Abraham Lincoln once said
 > Hello!
 
-I am a second-year student studying **Computer Science** at *UC San Diego*. This page will be all about me :smile:
+I am a second-year student studying **Computer Science** at *UC San Diego*. This page will be all about me :smiley:
 
 ## Current Involvments
 
