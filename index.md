@@ -13,7 +13,7 @@ Syntax highlighted code block
 ### CSE Tutor
 I am a CSE Tutor for **CSE 12**, Basic Data Structures and Object Oriented Design. 
 
-[Link](url) and ![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--gNp9r0Tx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/dbvcampra/image/upload/v1588403699/Webp.net-resizeimage_5_beudao.jpg)
+[Link](url) and ![Image](https://tutorialink.com/tutorial/ds/Types%20Of%20Data%20Structure.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
