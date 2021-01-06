@@ -12,10 +12,8 @@ Syntax highlighted code block
 
 ### CSE Tutor
 I am a CSE Tutor for **CSE 12**, Basic Data Structures and Object Oriented Design. 
-
-[Link](url) and 
 ```
-![Data Structures](https://github.com/samliu000/CSE-110-Lab-1/blob/main/DataStructureImage.png)
+![](https://github.com/samliu000/CSE-110-Lab-1/blob/main/DataStructureImage.png | width=200)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
