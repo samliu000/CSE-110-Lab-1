@@ -19,9 +19,35 @@ We program in Java/C++ so the **code** we write would look something like
 `BinTree ourTree = new BinTree();`
 
 ![Data Structures](./DSImage.png)
+
 [Here is a relative Link to the image](./DSImage.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Classes
+Here are the classes that I am currently taking
+- CSE 110
+- CSE 101
+- CSE 95
+  - Tutoring for CSE 12 under Gary Gillespie
+- MATH 183
+
+Here are some classes that I want to take in the future
+- [ ] CSE 151A
+- [ ] CSE 152A
+- [ ] CSE 141
+- [ ] CSE 141L
+- [x] CSE 100
+
+Here are my favorite classes
+| Fav Classes | 
+| --- | 
+| CSE 100 |
+| CSE 11 |
+| CSE 30 |
+
+### Hobbies
+1. Cooking
+2. Planting
+3. Gaming
 
 ## Contact Me
 Email: samuel.liu1004@gmail.com
