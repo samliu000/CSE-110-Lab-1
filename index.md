@@ -54,5 +54,7 @@ Here are my favorite classes
 
 ## Contact Me
 Email: samuel.liu1004@gmail.com
+
 Linkedin: [https://www.linkedin.com/in/samuel-liu-1004/](https://www.linkedin.com/in/samuel-liu-1004/)
+
 [Checkout my Resume](https://drive.google.com/file/d/1LiFEOE6UpPLI0XWSsHU4Pg6fPoiXXSgM/view?usp=sharing)
