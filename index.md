@@ -26,9 +26,9 @@ We program in Java/C++ so the **code** we write would look something like
 Here are the classes that I am currently taking
 - CSE 110
 - CSE 101
+- MATH 183
 - CSE 95
   - Tutoring for CSE 12 under Gary Gillespie
-- MATH 183
 
 Here are some classes that I want to take in the future
 - [ ] CSE 151A
