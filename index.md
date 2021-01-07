@@ -47,6 +47,9 @@ Here are my favorite classes
 ### Hobbies
 1. Cooking
 2. Planting
+  - Herbs
+  - Tomatoes
+  - Spring Onions
 3. Gaming
 
 ## Contact Me
