@@ -3,7 +3,7 @@
 As Abraham Lincoln once said
 > Hello!
 
-I am a second-year student studying **Computer Science** at *UC San Diego*. This page will be all about me :smiley:
+I am a ~~first-year~~ *second-year* student studying **Computer Science at _UC San Diego_**. This page will be all about me :smiley:
 
 **Page Sections**
 - [Current Involvemnts](https://github.com/samliu000/CSE-110-Lab-1/blob/gh-pages/index.md#current-involvments)
@@ -14,10 +14,12 @@ I am a second-year student studying **Computer Science** at *UC San Diego*. This
 ### CSE Tutor
 I am a CSE Tutor for **CSE 12**, Basic Data Structures 
 and Object Oriented Design. 
-We program in Java/C++ so the code we write would look something like
+We program in Java/C++ so the **code** we write would look something like
+
 `BinTree ourTree = new BinTree();`
 
 ![Data Structures](./DSImage.png)
+[Here is a relative Link to the image](./DSImage.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
